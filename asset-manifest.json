@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wildfiretracker/static/css/main.5806e328.css",
-    "main.js": "/wildfiretracker/static/js/main.12a281e8.js",
+    "main.js": "/wildfiretracker/static/js/main.ebea5beb.js",
     "static/js/592.36daad44.chunk.js": "/wildfiretracker/static/js/592.36daad44.chunk.js",
     "index.html": "/wildfiretracker/index.html",
     "main.5806e328.css.map": "/wildfiretracker/static/css/main.5806e328.css.map",
-    "main.12a281e8.js.map": "/wildfiretracker/static/js/main.12a281e8.js.map",
+    "main.ebea5beb.js.map": "/wildfiretracker/static/js/main.ebea5beb.js.map",
     "592.36daad44.chunk.js.map": "/wildfiretracker/static/js/592.36daad44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5806e328.css",
-    "static/js/main.12a281e8.js"
+    "static/js/main.ebea5beb.js"
   ]
 }
