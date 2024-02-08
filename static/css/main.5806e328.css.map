@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.5806e328.css","mappings":"AAAA,KAEE,sCAAyC,CADzC,QAEF,CAEA,KAEE,YAAa,CACb,iBAAkB,CAFlB,WAGF","sources":["index.css"],"sourcesContent":["body {\n  margin: 0;\n  font-family: Arial, Helvetica, sans-serif;\n}\n\n.map {\n  width: 100vw;\n  height: 100vh;\n  position: relative;\n}\n"],"names":[],"sourceRoot":""}
